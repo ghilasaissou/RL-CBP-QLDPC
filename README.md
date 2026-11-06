@@ -7,8 +7,6 @@ This repository includes two examples:
 - `rl_cbp_b1.py`: B1 `[[882,24]]` under independent Pauli-X noise.
 - `rl_cbp_a5.py`: A5 `[[180,10]]` under symmetric depolarizing noise.
 
-Only the proposed RL-CBP approach is included here. Baseline implementations are intentionally left out.
-
 ## Data files
 
 Put the code matrices in the same directory as the scripts:
